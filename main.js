@@ -88,4 +88,4 @@ function isValidHttpUrl(string) {
 	return url.protocol === "http:" || url.protocol === "https:";
 }
 
-client.login('OTU0MTU1MzEzODU3MTk2MDUy.YjPAYg.WTb-a-4VYoq8Fabb0vlF3cVIMN8');
+client.login('xxxx'); // put your own token here
