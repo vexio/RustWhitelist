@@ -8,9 +8,9 @@ const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] });
 
 const prefix = '!'
 
-var server_ip = '167.114.101.98'
-var server_port = 28016
-var server_pass = '9ZQZ26q8sUyj63bf'
+var server_ip = 'xxx.xxx.xxx.xx' // your rcon ip
+var server_port = 12345 // rcon port
+var server_pass = 'xxxxxxxxxxxxxxxxxx' // rcon pass
 
 var WebSocket = require('ws')
 //var ws = new WebSocket('ws://'+server_ip+':'+server_port+'/'+server_pass+'/');
